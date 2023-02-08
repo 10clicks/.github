@@ -7,5 +7,5 @@
 - Codebase: <a href="https://github.com/10clicks/10clicks.org" target="_blank" rel="noopener noreferrer">GitHub</a>
 
 ### 🛰️ The Devs:
-- Benjamin DeWeese: <a href="https://www.bdeweesevans.com" target="_blank" rel="noopener noreferrer">www.bdeweesevans.com</a>
+- Benjamin DeWeese van Schooneveld: <a href="https://www.bdeweesevans.com" target="_blank" rel="noopener noreferrer">www.bdeweesevans.com</a>
 - Oleksandr Goepynich: <a href="https://www.imoleks.com" target="_blank" rel="noopener noreferrer">www.imoleks.com</a>
